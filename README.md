@@ -1,5 +1,11 @@
 # Proyecto Snake (Fase Inicial)
 
+Integrantes del equipo:
+
+**- Juan Felipe Hoyos Bernate**
+
+**- David Santiago Bernal Vargas**
+
 Repositorio oficial para el desarrollo del videojuego clásico **Snake** en Java. Actualmente se encuentra en la **fase de análisis, diseño arquitectónico y configuración inicial**, siguiendo los lineamientos de arquitectura en capas y patrón DAO de la Universidad Libre.
 
 ## Stack Tecnológico Proyectado
